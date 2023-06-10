@@ -61,10 +61,10 @@
        "BOT_INFO": {
             "description": "Your bot menu info changing ;",
             "required": true,
-            "value":"𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg"
+            "value":"ALI_KING;~ALI;Copyright by ALI;923252752761;™𝐀LI_KING;https://www.linkpicture.com/q/0x0_33.jpg"
         },
         "AUDIO_DATA": {
-            "description": "Name of audio (take) name;name;image(url)",
+            "description": "Name of audio (take) name;name;image(https://www.linkpicture.com/q/0x0_33.jpg)",
             "required": true,
             "value":"Abu MD;Abu;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
@@ -76,7 +76,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"917025994178"
+            "value":"923252752761"
         },
        "SESSION_ID": {
             "description": "Your MD session",
